@@ -3,7 +3,7 @@
 #include "hello.h"
 
 int main(void) {
-    printf("Hello, ");
+    printf("Hello- hello, ");
     print_hello();
     exit(0);
 }
