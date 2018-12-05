@@ -5,4 +5,5 @@
 void
 print_hello(void) {
     printf("World!\n");
+    return 0;
 }
